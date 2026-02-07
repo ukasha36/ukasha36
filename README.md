@@ -6,7 +6,7 @@
 
 </head>
 <body>
-    <h1 align="center">Hi 👋, I'm Muhammad Ukasha</h1>
+    <h1 align="center">Hi, I'm Muhammad Ukasha</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ukasha36&label=Profile%20views&color=0e75b6&style=flat" alt="ukasha36" /> </p>
@@ -15,13 +15,11 @@
 
 <p align="left"> <a href="https://twitter.com/ukashashabbir35" target="blank"><img src="https://img.shields.io/twitter/follow/ukashashabbir35?logo=twitter&style=for-the-badge" alt="ukashashabbir35" /></a> </p>
 
-- 🔭 I’m currently working on **Node JS**
+- 🔭 I’m currently working on **React Native**
+  
+- 👨‍💻 All of my projects are available at [ukashadevfolio.vercel.app](ukasha.vercel.app)
 
-- 🌱 I’m currently learning **Express JS and Node JS**
-
-- 👨‍💻 All of my projects are available at [ukashadevfolio.vercel.app](ukashadevfolio.vercel.app)
-
-- 💬 Ask me about **React and NextJS**
+- 💬 Ask me about **Mern Stack and React Native**
 
 - 📫 How to reach me **ukashashabbir36@gmail.com**
 
